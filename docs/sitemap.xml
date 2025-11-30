@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/blog/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/blog/</loc>
     <lastmod>2025-11-29T01:44:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/blog/mynewpost/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/blog/mynewpost/</loc>
     <lastmod>2025-11-29T01:44:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/</loc>
     <lastmod>2025-11-29T01:44:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/tags/</loc>
     <lastmod>2025-11-29T01:44:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/test/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/tags/test/</loc>
     <lastmod>2025-11-29T01:44:51-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://trewly.github.io/coreyspinblog/categories/</loc>
   </url>
 </urlset>
